@@ -1,6 +1,10 @@
 
 ### Table of Contents
 
+This project was mostly builded to get some findings related to diversities in a specific country using the stackoverflow’s survey of 2018, 2019 and 2020.
+
+It’s possible to manipulate the variables to make a similar study in other countries.
+
 1. [Installation](#installation)
 2. [Project Motivation](#motivation)
 3. [File Descriptions](#files)
@@ -13,22 +17,21 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 
 ## Project Motivation<a name="motivation"></a>
 
-For this project, I was interestested in using Stack Overflow data from 2017 to better understand:
+Algorithms are getting deeper in our routines, dictating what content we should see in social media, what priorities we should receive in a hospital queue and if our CV’s should be analysed for a specific job.
 
-1. How other developers suggested breaking into the field (what education to pursue)?
-2. What factors about an individual contributed to salary?
-3. How bias played a role in the suggestions of developers for how to break into the field?
-4. What was the state of bootcamps for assisting individuals with breaking into developer roles?
-5. How were bootcamps assisting with increasing diversity in tech careers?
+Netflix approaches themes like these more deeply in documentaries like “Coded Bias” and “The Social Dilemma”, and inspires me to search for answers about diversity in the world of technology.
 
-The full set of files related to this course are owned by Udacity, so they are not publicly available here.  However, you can see pieces of the analysis here.  This README also serves as a template for students to follow in creating their own project README files.
+For this project, I was interestested in using Stack Overflow data from 2018, 2019 and 2020 to better understand:
 
+1. How diverse is the tech workforce in the US?
+2. How satisfied are minorities among their peers?
+3. Do minorities have been compensated equally in the US tech industry?
+4. The US tech industry has been absorbing the minorities's labor?
 
 ## File Descriptions <a name="files"></a>
 
-There are 3 notebooks available here to showcase work related to the above questions.  Each of the notebooks is exploratory in searching through the data pertaining to the questions showcased by the notebook title.  Markdown cells were used to assist in walking through the thought process for individual steps.  
+There is one notebook available here to showcase work related to the above questions.  The notebook is exploratory in searching through the data pertaining to the questions showcased across the notebook.  Markdown cells were used to assist in walking through the thought process for individual steps.
 
-There is an additional `.py` file that runs the necessary code to obtain the final model used to predict salary.
 
 ## Results<a name="results"></a>
 
@@ -36,5 +39,11 @@ The main findings of the code can be found at the post available [here](https://
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-Must give credit to Stack Overflow for the data.  You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/stackoverflow/so-survey-2017/data).  Otherwise, feel free to use the code here as you would like! 
+Must give credit to Stack Overflow for the data.  You can find the Licensing for the data and other descriptive information at the Kaggle links available below:
+
+[2018](https://www.kaggle.com/stackoverflow/stack-overflow-2018-developer-survey).
+[2019](https://www.kaggle.com/mchirico/stack-overflow-developer-survey-results-2019).
+[2020](https://www.kaggle.com/aitzaz/stack-overflow-developer-survey-2020).
+
+Otherwise, feel free to use the code here as you would like! 
 
