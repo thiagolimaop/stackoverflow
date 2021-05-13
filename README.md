@@ -35,7 +35,7 @@ There is one notebook available here to showcase work related to the above quest
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711).
+The main findings of the code can be found at the post available [here](https://thiagolimaop.medium.com/how-technology-has-been-handling-with-diversity-f8ca4c6d9edb).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
