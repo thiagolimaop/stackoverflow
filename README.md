@@ -1,7 +1,7 @@
 
 ### Table of Contents
 
-This project was mostly builded to get some findings related to diversities in a specific country using the stackoverflow’s survey of 2018, 2019 and 2020.
+This project was mostly builded to get some findings related to diversities in a specific country using 2018, 2019 and 2020 stackoverflow survey.
 
 It’s possible to manipulate the variables to make a similar study in other countries.
 
@@ -13,7 +13,7 @@ It’s possible to manipulate the variables to make a similar study in other cou
 
 ## Installation <a name="installation"></a>
 
-There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python.  The code should run with no issues using Python versions 3.*.
+There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python.  The code should run with no issues using Python versions 3.*.  It's necessary unzip the survey data to run the project.
 
 ## Project Motivation<a name="motivation"></a>
 
