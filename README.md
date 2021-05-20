@@ -35,7 +35,7 @@ There is one notebook available here to showcase work related to the above quest
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://thiagolimaop.medium.com/how-technology-has-been-handling-with-diversity-f8ca4c6d9edb).
+The main findings of the code can be found at the post available [here](https://thiagolimaop.medium.com/how-technology-has-been-handling-with-diversity-664e5bbc7320).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
